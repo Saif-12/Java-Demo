@@ -20,4 +20,9 @@ public void display()
     System.out.println("Hi, display ");
 }
 
+public void sum()
+{
+    System.out.println(2+3);
+}
+
 }
